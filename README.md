@@ -11,6 +11,7 @@ Jupyter Notebook is required for the crypto_arbitrage.ipynb file to run.
 ## Contributors
 
 --- David Ports - dave.ports.1@gmail.com
+
 --- Ryan Walker - ryanwalker970@gmail.com
 
 ## License
